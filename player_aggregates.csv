@@ -1,0 +1,855 @@
+player_name,variable,value,counts
+Andre Iguodala,points,0.0,286
+Andre Iguodala,points,1.0,8
+Andre Iguodala,points,2.0,121
+Andre Iguodala,points,3.0,75
+Andre Iguodala,points,,3
+Andre Iguodala,result_contest,Alter,5
+Andre Iguodala,result_contest,Average,161
+Andre Iguodala,result_contest,Block,16
+Andre Iguodala,result_contest,Fouled,27
+Andre Iguodala,result_contest,Open,110
+Andre Iguodala,result_contest,Plus,68
+Andre Iguodala,result_contest,Poor,33
+Andre Iguodala,result_contest,,73
+Andre Iguodala,result_type,1-2D Pull-Up,26
+Andre Iguodala,result_type,3+D Pull-Up,9
+Andre Iguodala,result_type,Catch & Shoot,137
+Andre Iguodala,result_type,Dunk,29
+Andre Iguodala,result_type,Face-Up,11
+Andre Iguodala,result_type,Floater,19
+Andre Iguodala,result_type,Hook,6
+Andre Iguodala,result_type,Layup,100
+Andre Iguodala,result_type,Leaner,4
+Andre Iguodala,result_type,Off-Lob / Tip,14
+Andre Iguodala,result_type,Off-Movement,57
+Andre Iguodala,result_type,PU Fade,3
+Andre Iguodala,result_type,Post Fade,2
+Andre Iguodala,result_type,Putback,3
+Andre Iguodala,result_type,SC Violation,4
+Andre Iguodala,result_type,Side Out,7
+Andre Iguodala,result_type,TOV,52
+Andre Iguodala,result_type,Take Side,10
+Andre Iguodala,result_zone,Left Above Break 3,42
+Andre Iguodala,result_zone,Left Corner 3,37
+Andre Iguodala,result_zone,Left Midrange,9
+Andre Iguodala,result_zone,Left Short Mid,6
+Andre Iguodala,result_zone,Mid-Left Above Break 3,43
+Andre Iguodala,result_zone,Mid-Left Deep Paint,3
+Andre Iguodala,result_zone,Mid-Left Midrange,5
+Andre Iguodala,result_zone,Mid-Left Short Paint,9
+Andre Iguodala,result_zone,Mid-Right Above Break 3,38
+Andre Iguodala,result_zone,Mid-Right Midrange,5
+Andre Iguodala,result_zone,Mid-Right Short Paint,8
+Andre Iguodala,result_zone,Right Above Break 3,37
+Andre Iguodala,result_zone,Right Corner 3,40
+Andre Iguodala,result_zone,Right Midrange,8
+Andre Iguodala,result_zone,Right Short Mid,15
+Andre Iguodala,result_zone,Rim,175
+Andre Iguodala,result_zone,Short Backcourt,1
+Andre Iguodala,result_zone,,12
+Andrew Wiggins,points,0.0,1505
+Andrew Wiggins,points,1.0,79
+Andrew Wiggins,points,2.0,648
+Andrew Wiggins,points,3.0,400
+Andrew Wiggins,points,,10
+Andrew Wiggins,result_contest,Alter,30
+Andrew Wiggins,result_contest,Average,864
+Andrew Wiggins,result_contest,Block,71
+Andrew Wiggins,result_contest,Fouled,210
+Andrew Wiggins,result_contest,Goaltend,1
+Andrew Wiggins,result_contest,Open,407
+Andrew Wiggins,result_contest,Plus,556
+Andrew Wiggins,result_contest,Poor,167
+Andrew Wiggins,result_contest,,336
+Andrew Wiggins,result_type,1-2D Pull-Up,190
+Andrew Wiggins,result_type,3+D Pull-Up,139
+Andrew Wiggins,result_type,Catch & Shoot,620
+Andrew Wiggins,result_type,Dunk,106
+Andrew Wiggins,result_type,Face-Up,45
+Andrew Wiggins,result_type,Floater,250
+Andrew Wiggins,result_type,Hook,59
+Andrew Wiggins,result_type,Jump Ball,3
+Andrew Wiggins,result_type,Layup,464
+Andrew Wiggins,result_type,Leaner,6
+Andrew Wiggins,result_type,Off-Lob / Tip,38
+Andrew Wiggins,result_type,Off-Movement,217
+Andrew Wiggins,result_type,PU Fade,112
+Andrew Wiggins,result_type,Post Fade,48
+Andrew Wiggins,result_type,Putback,12
+Andrew Wiggins,result_type,SC Violation,3
+Andrew Wiggins,result_type,Side Out,54
+Andrew Wiggins,result_type,TOV,207
+Andrew Wiggins,result_type,Take FT,10
+Andrew Wiggins,result_type,Take Side,59
+Andrew Wiggins,result_zone,Deep Backcourt,3
+Andrew Wiggins,result_zone,Left Above Break 3,162
+Andrew Wiggins,result_zone,Left Corner 3,122
+Andrew Wiggins,result_zone,Left Midrange,89
+Andrew Wiggins,result_zone,Left Short Mid,61
+Andrew Wiggins,result_zone,Mid-Left Above Break 3,160
+Andrew Wiggins,result_zone,Mid-Left Deep Paint,39
+Andrew Wiggins,result_zone,Mid-Left Midrange,88
+Andrew Wiggins,result_zone,Mid-Left Short Paint,48
+Andrew Wiggins,result_zone,Mid-Right Above Break 3,161
+Andrew Wiggins,result_zone,Mid-Right Deep Paint,35
+Andrew Wiggins,result_zone,Mid-Right Midrange,64
+Andrew Wiggins,result_zone,Mid-Right Short Paint,56
+Andrew Wiggins,result_zone,Right Above Break 3,228
+Andrew Wiggins,result_zone,Right Corner 3,211
+Andrew Wiggins,result_zone,Right Midrange,70
+Andrew Wiggins,result_zone,Right Short Mid,55
+Andrew Wiggins,result_zone,Rim,918
+Andrew Wiggins,result_zone,Short Backcourt,9
+Andrew Wiggins,result_zone,,63
+Chris Chiozza,points,0.0,254
+Chris Chiozza,points,1.0,13
+Chris Chiozza,points,2.0,63
+Chris Chiozza,points,3.0,62
+Chris Chiozza,points,,1
+Chris Chiozza,result_contest,Alter,10
+Chris Chiozza,result_contest,Average,160
+Chris Chiozza,result_contest,Block,8
+Chris Chiozza,result_contest,Fouled,19
+Chris Chiozza,result_contest,Open,61
+Chris Chiozza,result_contest,Plus,50
+Chris Chiozza,result_contest,Poor,18
+Chris Chiozza,result_contest,,67
+Chris Chiozza,result_type,1-2D Pull-Up,21
+Chris Chiozza,result_type,3+D Pull-Up,13
+Chris Chiozza,result_type,Catch & Shoot,114
+Chris Chiozza,result_type,Dunk,16
+Chris Chiozza,result_type,Face-Up,9
+Chris Chiozza,result_type,Floater,19
+Chris Chiozza,result_type,Hook,1
+Chris Chiozza,result_type,Jump Ball,1
+Chris Chiozza,result_type,Layup,65
+Chris Chiozza,result_type,Leaner,2
+Chris Chiozza,result_type,Off-Lob / Tip,1
+Chris Chiozza,result_type,Off-Movement,52
+Chris Chiozza,result_type,PU Fade,11
+Chris Chiozza,result_type,Post Fade,2
+Chris Chiozza,result_type,SC Violation,6
+Chris Chiozza,result_type,Side Out,5
+Chris Chiozza,result_type,TOV,44
+Chris Chiozza,result_type,Take FT,3
+Chris Chiozza,result_type,Take Side,8
+Chris Chiozza,result_zone,Left Above Break 3,23
+Chris Chiozza,result_zone,Left Corner 3,24
+Chris Chiozza,result_zone,Left Midrange,10
+Chris Chiozza,result_zone,Left Short Mid,13
+Chris Chiozza,result_zone,Mid-Left Above Break 3,34
+Chris Chiozza,result_zone,Mid-Left Deep Paint,7
+Chris Chiozza,result_zone,Mid-Left Midrange,13
+Chris Chiozza,result_zone,Mid-Left Short Paint,4
+Chris Chiozza,result_zone,Mid-Right Above Break 3,32
+Chris Chiozza,result_zone,Mid-Right Deep Paint,6
+Chris Chiozza,result_zone,Mid-Right Midrange,2
+Chris Chiozza,result_zone,Mid-Right Short Paint,8
+Chris Chiozza,result_zone,Right Above Break 3,43
+Chris Chiozza,result_zone,Right Corner 3,39
+Chris Chiozza,result_zone,Right Midrange,7
+Chris Chiozza,result_zone,Right Short Mid,12
+Chris Chiozza,result_zone,Rim,103
+Chris Chiozza,result_zone,Short Backcourt,1
+Chris Chiozza,result_zone,,12
+Damion Lee,points,0.0,528
+Damion Lee,points,1.0,15
+Damion Lee,points,2.0,204
+Damion Lee,points,3.0,130
+Damion Lee,points,,2
+Damion Lee,result_contest,Alter,14
+Damion Lee,result_contest,Average,330
+Damion Lee,result_contest,Block,30
+Damion Lee,result_contest,Fouled,48
+Damion Lee,result_contest,Goaltend,3
+Damion Lee,result_contest,Open,153
+Damion Lee,result_contest,Plus,136
+Damion Lee,result_contest,Poor,59
+Damion Lee,result_contest,,106
+Damion Lee,result_type,1-2D Pull-Up,69
+Damion Lee,result_type,3+D Pull-Up,23
+Damion Lee,result_type,Catch & Shoot,258
+Damion Lee,result_type,Dunk,16
+Damion Lee,result_type,Face-Up,15
+Damion Lee,result_type,Floater,78
+Damion Lee,result_type,Hook,4
+Damion Lee,result_type,Layup,181
+Damion Lee,result_type,Leaner,10
+Damion Lee,result_type,Off-Lob / Tip,8
+Damion Lee,result_type,Off-Movement,89
+Damion Lee,result_type,PU Fade,17
+Damion Lee,result_type,Post Fade,4
+Damion Lee,result_type,Putback,1
+Damion Lee,result_type,SC Violation,3
+Damion Lee,result_type,Side Out,13
+Damion Lee,result_type,TOV,66
+Damion Lee,result_type,Take FT,9
+Damion Lee,result_type,Take Side,15
+Damion Lee,result_zone,Deep Backcourt,4
+Damion Lee,result_zone,Left Above Break 3,64
+Damion Lee,result_zone,Left Corner 3,72
+Damion Lee,result_zone,Left Midrange,18
+Damion Lee,result_zone,Left Short Mid,32
+Damion Lee,result_zone,Mid-Left Above Break 3,65
+Damion Lee,result_zone,Mid-Left Deep Paint,10
+Damion Lee,result_zone,Mid-Left Midrange,22
+Damion Lee,result_zone,Mid-Left Short Paint,8
+Damion Lee,result_zone,Mid-Right Above Break 3,46
+Damion Lee,result_zone,Mid-Right Deep Paint,10
+Damion Lee,result_zone,Mid-Right Midrange,20
+Damion Lee,result_zone,Mid-Right Short Paint,12
+Damion Lee,result_zone,Right Above Break 3,74
+Damion Lee,result_zone,Right Corner 3,79
+Damion Lee,result_zone,Right Midrange,25
+Damion Lee,result_zone,Right Short Mid,20
+Damion Lee,result_zone,Rim,275
+Damion Lee,result_zone,Short Backcourt,6
+Damion Lee,result_zone,,17
+Draymond Green,points,0.0,1085
+Draymond Green,points,1.0,54
+Draymond Green,points,2.0,541
+Draymond Green,points,3.0,259
+Draymond Green,points,4.0,2
+Draymond Green,points,,5
+Draymond Green,result_contest,Alter,28
+Draymond Green,result_contest,Average,595
+Draymond Green,result_contest,Block,64
+Draymond Green,result_contest,Fouled,167
+Draymond Green,result_contest,Goaltend,4
+Draymond Green,result_contest,Open,369
+Draymond Green,result_contest,Plus,254
+Draymond Green,result_contest,Poor,118
+Draymond Green,result_contest,,347
+Draymond Green,result_type,1-2D Pull-Up,93
+Draymond Green,result_type,3+D Pull-Up,10
+Draymond Green,result_type,Catch & Shoot,338
+Draymond Green,result_type,Dunk,108
+Draymond Green,result_type,Face-Up,24
+Draymond Green,result_type,Floater,151
+Draymond Green,result_type,Hook,27
+Draymond Green,result_type,Layup,510
+Draymond Green,result_type,Leaner,9
+Draymond Green,result_type,Off-Lob / Tip,28
+Draymond Green,result_type,Off-Movement,262
+Draymond Green,result_type,PU Fade,23
+Draymond Green,result_type,Post Fade,10
+Draymond Green,result_type,Putback,6
+Draymond Green,result_type,SC Violation,2
+Draymond Green,result_type,Side Out,41
+Draymond Green,result_type,TOV,251
+Draymond Green,result_type,Take FT,9
+Draymond Green,result_type,Take Side,44
+Draymond Green,result_zone,Deep Backcourt,6
+Draymond Green,result_zone,Left Above Break 3,145
+Draymond Green,result_zone,Left Corner 3,96
+Draymond Green,result_zone,Left Midrange,35
+Draymond Green,result_zone,Left Short Mid,48
+Draymond Green,result_zone,Mid-Left Above Break 3,149
+Draymond Green,result_zone,Mid-Left Deep Paint,23
+Draymond Green,result_zone,Mid-Left Midrange,43
+Draymond Green,result_zone,Mid-Left Short Paint,39
+Draymond Green,result_zone,Mid-Right Above Break 3,118
+Draymond Green,result_zone,Mid-Right Deep Paint,13
+Draymond Green,result_zone,Mid-Right Midrange,44
+Draymond Green,result_zone,Mid-Right Short Paint,30
+Draymond Green,result_zone,Right Above Break 3,132
+Draymond Green,result_zone,Right Corner 3,90
+Draymond Green,result_zone,Right Midrange,28
+Draymond Green,result_zone,Right Short Mid,37
+Draymond Green,result_zone,Rim,816
+Draymond Green,result_zone,Short Backcourt,10
+Draymond Green,result_zone,,44
+Gary Payton II,points,0.0,375
+Gary Payton II,points,1.0,23
+Gary Payton II,points,2.0,272
+Gary Payton II,points,3.0,103
+Gary Payton II,points,4.0,1
+Gary Payton II,points,,1
+Gary Payton II,result_contest,Alter,13
+Gary Payton II,result_contest,Average,260
+Gary Payton II,result_contest,Block,23
+Gary Payton II,result_contest,Fouled,52
+Gary Payton II,result_contest,Goaltend,3
+Gary Payton II,result_contest,Open,204
+Gary Payton II,result_contest,Plus,90
+Gary Payton II,result_contest,Poor,51
+Gary Payton II,result_contest,,79
+Gary Payton II,result_type,1-2D Pull-Up,25
+Gary Payton II,result_type,3+D Pull-Up,5
+Gary Payton II,result_type,Catch & Shoot,213
+Gary Payton II,result_type,Dunk,80
+Gary Payton II,result_type,Face-Up,10
+Gary Payton II,result_type,Floater,37
+Gary Payton II,result_type,Hook,10
+Gary Payton II,result_type,Layup,212
+Gary Payton II,result_type,Leaner,2
+Gary Payton II,result_type,Off-Lob / Tip,26
+Gary Payton II,result_type,Off-Movement,60
+Gary Payton II,result_type,PU Fade,7
+Gary Payton II,result_type,Post Fade,1
+Gary Payton II,result_type,Putback,8
+Gary Payton II,result_type,SC Violation,5
+Gary Payton II,result_type,Side Out,11
+Gary Payton II,result_type,TOV,51
+Gary Payton II,result_type,Take FT,3
+Gary Payton II,result_type,Take Side,9
+Gary Payton II,result_zone,Deep Backcourt,3
+Gary Payton II,result_zone,Left Above Break 3,45
+Gary Payton II,result_zone,Left Corner 3,57
+Gary Payton II,result_zone,Left Midrange,10
+Gary Payton II,result_zone,Left Short Mid,9
+Gary Payton II,result_zone,Mid-Left Above Break 3,48
+Gary Payton II,result_zone,Mid-Left Deep Paint,2
+Gary Payton II,result_zone,Mid-Left Midrange,6
+Gary Payton II,result_zone,Mid-Left Short Paint,6
+Gary Payton II,result_zone,Mid-Right Above Break 3,30
+Gary Payton II,result_zone,Mid-Right Deep Paint,1
+Gary Payton II,result_zone,Mid-Right Midrange,10
+Gary Payton II,result_zone,Mid-Right Short Paint,7
+Gary Payton II,result_zone,Right Above Break 3,49
+Gary Payton II,result_zone,Right Corner 3,83
+Gary Payton II,result_zone,Right Midrange,8
+Gary Payton II,result_zone,Right Short Mid,8
+Gary Payton II,result_zone,Rim,371
+Gary Payton II,result_zone,Short Backcourt,6
+Gary Payton II,result_zone,,16
+Jeff Dowtin,points,0.0,9
+Jeff Dowtin,points,2.0,6
+Jeff Dowtin,points,3.0,1
+Jeff Dowtin,result_contest,Average,6
+Jeff Dowtin,result_contest,Open,1
+Jeff Dowtin,result_contest,Plus,3
+Jeff Dowtin,result_contest,Poor,3
+Jeff Dowtin,result_contest,,3
+Jeff Dowtin,result_type,1-2D Pull-Up,1
+Jeff Dowtin,result_type,3+D Pull-Up,1
+Jeff Dowtin,result_type,Catch & Shoot,5
+Jeff Dowtin,result_type,Dunk,2
+Jeff Dowtin,result_type,Floater,2
+Jeff Dowtin,result_type,Layup,2
+Jeff Dowtin,result_type,TOV,3
+Jeff Dowtin,result_zone,Left Corner 3,1
+Jeff Dowtin,result_zone,Left Short Mid,1
+Jeff Dowtin,result_zone,Mid-Right Above Break 3,1
+Jeff Dowtin,result_zone,Mid-Right Midrange,2
+Jeff Dowtin,result_zone,Right Above Break 3,2
+Jeff Dowtin,result_zone,Right Corner 3,1
+Jeff Dowtin,result_zone,Right Midrange,1
+Jeff Dowtin,result_zone,Rim,6
+Jeff Dowtin,result_zone,Short Backcourt,1
+Jonathan Kuminga,points,0.0,534
+Jonathan Kuminga,points,1.0,47
+Jonathan Kuminga,points,2.0,322
+Jonathan Kuminga,points,3.0,113
+Jonathan Kuminga,points,,8
+Jonathan Kuminga,result_contest,Alter,10
+Jonathan Kuminga,result_contest,Average,284
+Jonathan Kuminga,result_contest,Block,39
+Jonathan Kuminga,result_contest,Fouled,119
+Jonathan Kuminga,result_contest,Open,190
+Jonathan Kuminga,result_contest,Plus,157
+Jonathan Kuminga,result_contest,Poor,60
+Jonathan Kuminga,result_contest,,165
+Jonathan Kuminga,result_type,1-2D Pull-Up,48
+Jonathan Kuminga,result_type,3+D Pull-Up,11
+Jonathan Kuminga,result_type,Catch & Shoot,204
+Jonathan Kuminga,result_type,Dunk,104
+Jonathan Kuminga,result_type,Face-Up,24
+Jonathan Kuminga,result_type,Floater,83
+Jonathan Kuminga,result_type,Hook,14
+Jonathan Kuminga,result_type,Jump Ball,2
+Jonathan Kuminga,result_type,Layup,245
+Jonathan Kuminga,result_type,Leaner,10
+Jonathan Kuminga,result_type,Off-Lob / Tip,27
+Jonathan Kuminga,result_type,Off-Movement,42
+Jonathan Kuminga,result_type,PU Fade,22
+Jonathan Kuminga,result_type,Post Fade,20
+Jonathan Kuminga,result_type,Putback,5
+Jonathan Kuminga,result_type,SC Violation,6
+Jonathan Kuminga,result_type,Side Out,20
+Jonathan Kuminga,result_type,TOV,106
+Jonathan Kuminga,result_type,Take FT,9
+Jonathan Kuminga,result_type,Take Side,22
+Jonathan Kuminga,result_zone,Deep Backcourt,1
+Jonathan Kuminga,result_zone,Left Above Break 3,44
+Jonathan Kuminga,result_zone,Left Corner 3,46
+Jonathan Kuminga,result_zone,Left Midrange,15
+Jonathan Kuminga,result_zone,Left Short Mid,17
+Jonathan Kuminga,result_zone,Mid-Left Above Break 3,65
+Jonathan Kuminga,result_zone,Mid-Left Deep Paint,21
+Jonathan Kuminga,result_zone,Mid-Left Midrange,16
+Jonathan Kuminga,result_zone,Mid-Left Short Paint,27
+Jonathan Kuminga,result_zone,Mid-Right Above Break 3,34
+Jonathan Kuminga,result_zone,Mid-Right Deep Paint,13
+Jonathan Kuminga,result_zone,Mid-Right Midrange,13
+Jonathan Kuminga,result_zone,Mid-Right Short Paint,32
+Jonathan Kuminga,result_zone,Right Above Break 3,62
+Jonathan Kuminga,result_zone,Right Corner 3,66
+Jonathan Kuminga,result_zone,Right Midrange,13
+Jonathan Kuminga,result_zone,Right Short Mid,17
+Jonathan Kuminga,result_zone,Rim,488
+Jonathan Kuminga,result_zone,Short Backcourt,4
+Jonathan Kuminga,result_zone,,30
+Jordan Poole,points,0.0,2098
+Jordan Poole,points,1.0,41
+Jordan Poole,points,2.0,878
+Jordan Poole,points,3.0,598
+Jordan Poole,points,4.0,5
+Jordan Poole,points,,10
+Jordan Poole,result_contest,Alter,55
+Jordan Poole,result_contest,Average,1194
+Jordan Poole,result_contest,Block,119
+Jordan Poole,result_contest,Fouled,255
+Jordan Poole,result_contest,Goaltend,5
+Jordan Poole,result_contest,Open,572
+Jordan Poole,result_contest,Plus,565
+Jordan Poole,result_contest,Poor,222
+Jordan Poole,result_contest,,643
+Jordan Poole,result_type,1-2D Pull-Up,273
+Jordan Poole,result_type,3+D Pull-Up,258
+Jordan Poole,result_type,Catch & Shoot,667
+Jordan Poole,result_type,Dunk,132
+Jordan Poole,result_type,Face-Up,25
+Jordan Poole,result_type,Floater,221
+Jordan Poole,result_type,Hook,28
+Jordan Poole,result_type,Jump Ball,8
+Jordan Poole,result_type,Layup,747
+Jordan Poole,result_type,Leaner,30
+Jordan Poole,result_type,Off-Lob / Tip,15
+Jordan Poole,result_type,Off-Movement,454
+Jordan Poole,result_type,PU Fade,117
+Jordan Poole,result_type,Post Fade,19
+Jordan Poole,result_type,Putback,1
+Jordan Poole,result_type,SC Violation,19
+Jordan Poole,result_type,Side Out,86
+Jordan Poole,result_type,TOV,375
+Jordan Poole,result_type,Take FT,33
+Jordan Poole,result_type,Take Side,122
+Jordan Poole,result_zone,Deep Backcourt,8
+Jordan Poole,result_zone,Left Above Break 3,300
+Jordan Poole,result_zone,Left Corner 3,174
+Jordan Poole,result_zone,Left Midrange,70
+Jordan Poole,result_zone,Left Short Mid,118
+Jordan Poole,result_zone,Mid-Left Above Break 3,318
+Jordan Poole,result_zone,Mid-Left Deep Paint,35
+Jordan Poole,result_zone,Mid-Left Midrange,96
+Jordan Poole,result_zone,Mid-Left Short Paint,57
+Jordan Poole,result_zone,Mid-Right Above Break 3,307
+Jordan Poole,result_zone,Mid-Right Deep Paint,31
+Jordan Poole,result_zone,Mid-Right Midrange,87
+Jordan Poole,result_zone,Mid-Right Short Paint,58
+Jordan Poole,result_zone,Right Above Break 3,339
+Jordan Poole,result_zone,Right Corner 3,216
+Jordan Poole,result_zone,Right Midrange,66
+Jordan Poole,result_zone,Right Short Mid,72
+Jordan Poole,result_zone,Rim,1142
+Jordan Poole,result_zone,Short Backcourt,17
+Jordan Poole,result_zone,,119
+Juan Toscano-Anderson,points,0.0,493
+Juan Toscano-Anderson,points,1.0,23
+Juan Toscano-Anderson,points,2.0,194
+Juan Toscano-Anderson,points,3.0,132
+Juan Toscano-Anderson,points,,1
+Juan Toscano-Anderson,result_contest,Alter,15
+Juan Toscano-Anderson,result_contest,Average,253
+Juan Toscano-Anderson,result_contest,Block,29
+Juan Toscano-Anderson,result_contest,Fouled,51
+Juan Toscano-Anderson,result_contest,Goaltend,1
+Juan Toscano-Anderson,result_contest,Open,163
+Juan Toscano-Anderson,result_contest,Plus,134
+Juan Toscano-Anderson,result_contest,Poor,45
+Juan Toscano-Anderson,result_contest,,152
+Juan Toscano-Anderson,result_type,1-2D Pull-Up,42
+Juan Toscano-Anderson,result_type,3+D Pull-Up,10
+Juan Toscano-Anderson,result_type,Catch & Shoot,217
+Juan Toscano-Anderson,result_type,Dunk,50
+Juan Toscano-Anderson,result_type,Face-Up,12
+Juan Toscano-Anderson,result_type,Floater,34
+Juan Toscano-Anderson,result_type,Hook,8
+Juan Toscano-Anderson,result_type,Layup,213
+Juan Toscano-Anderson,result_type,Leaner,5
+Juan Toscano-Anderson,result_type,Off-Lob / Tip,6
+Juan Toscano-Anderson,result_type,Off-Movement,82
+Juan Toscano-Anderson,result_type,PU Fade,7
+Juan Toscano-Anderson,result_type,Post Fade,3
+Juan Toscano-Anderson,result_type,Putback,2
+Juan Toscano-Anderson,result_type,SC Violation,12
+Juan Toscano-Anderson,result_type,Side Out,18
+Juan Toscano-Anderson,result_type,TOV,95
+Juan Toscano-Anderson,result_type,Take FT,10
+Juan Toscano-Anderson,result_type,Take Side,17
+Juan Toscano-Anderson,result_zone,Deep Backcourt,3
+Juan Toscano-Anderson,result_zone,Left Above Break 3,56
+Juan Toscano-Anderson,result_zone,Left Corner 3,53
+Juan Toscano-Anderson,result_zone,Left Midrange,9
+Juan Toscano-Anderson,result_zone,Left Short Mid,16
+Juan Toscano-Anderson,result_zone,Mid-Left Above Break 3,49
+Juan Toscano-Anderson,result_zone,Mid-Left Deep Paint,6
+Juan Toscano-Anderson,result_zone,Mid-Left Midrange,15
+Juan Toscano-Anderson,result_zone,Mid-Left Short Paint,9
+Juan Toscano-Anderson,result_zone,Mid-Right Above Break 3,53
+Juan Toscano-Anderson,result_zone,Mid-Right Deep Paint,8
+Juan Toscano-Anderson,result_zone,Mid-Right Midrange,10
+Juan Toscano-Anderson,result_zone,Mid-Right Short Paint,14
+Juan Toscano-Anderson,result_zone,Right Above Break 3,92
+Juan Toscano-Anderson,result_zone,Right Corner 3,70
+Juan Toscano-Anderson,result_zone,Right Midrange,9
+Juan Toscano-Anderson,result_zone,Right Short Mid,15
+Juan Toscano-Anderson,result_zone,Rim,320
+Juan Toscano-Anderson,result_zone,Short Backcourt,6
+Juan Toscano-Anderson,result_zone,,30
+Kevon Looney,points,0.0,509
+Kevon Looney,points,1.0,40
+Kevon Looney,points,2.0,392
+Kevon Looney,points,3.0,95
+Kevon Looney,points,,1
+Kevon Looney,result_contest,Alter,19
+Kevon Looney,result_contest,Average,307
+Kevon Looney,result_contest,Block,53
+Kevon Looney,result_contest,Fouled,97
+Kevon Looney,result_contest,Open,240
+Kevon Looney,result_contest,Plus,133
+Kevon Looney,result_contest,Poor,67
+Kevon Looney,result_contest,,121
+Kevon Looney,result_type,1-2D Pull-Up,52
+Kevon Looney,result_type,3+D Pull-Up,12
+Kevon Looney,result_type,Catch & Shoot,150
+Kevon Looney,result_type,Dunk,127
+Kevon Looney,result_type,Face-Up,13
+Kevon Looney,result_type,Floater,42
+Kevon Looney,result_type,Hook,19
+Kevon Looney,result_type,Jump Ball,5
+Kevon Looney,result_type,Layup,322
+Kevon Looney,result_type,Leaner,3
+Kevon Looney,result_type,Off-Lob / Tip,34
+Kevon Looney,result_type,Off-Movement,99
+Kevon Looney,result_type,PU Fade,12
+Kevon Looney,result_type,Post Fade,8
+Kevon Looney,result_type,Putback,23
+Kevon Looney,result_type,SC Violation,3
+Kevon Looney,result_type,Side Out,12
+Kevon Looney,result_type,TOV,85
+Kevon Looney,result_type,Take FT,2
+Kevon Looney,result_type,Take Side,14
+Kevon Looney,result_zone,Deep Backcourt,6
+Kevon Looney,result_zone,Left Above Break 3,38
+Kevon Looney,result_zone,Left Corner 3,32
+Kevon Looney,result_zone,Left Midrange,37
+Kevon Looney,result_zone,Left Short Mid,27
+Kevon Looney,result_zone,Mid-Left Above Break 3,36
+Kevon Looney,result_zone,Mid-Left Deep Paint,10
+Kevon Looney,result_zone,Mid-Left Midrange,26
+Kevon Looney,result_zone,Mid-Left Short Paint,14
+Kevon Looney,result_zone,Mid-Right Above Break 3,50
+Kevon Looney,result_zone,Mid-Right Deep Paint,5
+Kevon Looney,result_zone,Mid-Right Midrange,19
+Kevon Looney,result_zone,Mid-Right Short Paint,9
+Kevon Looney,result_zone,Right Above Break 3,47
+Kevon Looney,result_zone,Right Corner 3,44
+Kevon Looney,result_zone,Right Midrange,12
+Kevon Looney,result_zone,Right Short Mid,22
+Kevon Looney,result_zone,Rim,581
+Kevon Looney,result_zone,Short Backcourt,1
+Kevon Looney,result_zone,,21
+Klay Thompson,points,0.0,947
+Klay Thompson,points,1.0,19
+Klay Thompson,points,2.0,378
+Klay Thompson,points,3.0,293
+Klay Thompson,points,,2
+Klay Thompson,result_contest,Alter,12
+Klay Thompson,result_contest,Average,604
+Klay Thompson,result_contest,Block,41
+Klay Thompson,result_contest,Fouled,67
+Klay Thompson,result_contest,Goaltend,3
+Klay Thompson,result_contest,Open,301
+Klay Thompson,result_contest,Plus,367
+Klay Thompson,result_contest,Poor,82
+Klay Thompson,result_contest,,162
+Klay Thompson,result_type,1-2D Pull-Up,224
+Klay Thompson,result_type,3+D Pull-Up,54
+Klay Thompson,result_type,Catch & Shoot,314
+Klay Thompson,result_type,Dunk,55
+Klay Thompson,result_type,Face-Up,26
+Klay Thompson,result_type,Floater,86
+Klay Thompson,result_type,Hook,10
+Klay Thompson,result_type,Jump Ball,1
+Klay Thompson,result_type,Layup,222
+Klay Thompson,result_type,Leaner,41
+Klay Thompson,result_type,Off-Lob / Tip,9
+Klay Thompson,result_type,Off-Movement,265
+Klay Thompson,result_type,PU Fade,117
+Klay Thompson,result_type,Post Fade,53
+Klay Thompson,result_type,Putback,1
+Klay Thompson,result_type,SC Violation,8
+Klay Thompson,result_type,Side Out,26
+Klay Thompson,result_type,TOV,107
+Klay Thompson,result_type,Take FT,3
+Klay Thompson,result_type,Take Side,17
+Klay Thompson,result_zone,Deep Backcourt,2
+Klay Thompson,result_zone,Left Above Break 3,135
+Klay Thompson,result_zone,Left Corner 3,107
+Klay Thompson,result_zone,Left Midrange,55
+Klay Thompson,result_zone,Left Short Mid,81
+Klay Thompson,result_zone,Mid-Left Above Break 3,154
+Klay Thompson,result_zone,Mid-Left Deep Paint,26
+Klay Thompson,result_zone,Mid-Left Midrange,54
+Klay Thompson,result_zone,Mid-Left Short Paint,15
+Klay Thompson,result_zone,Mid-Right Above Break 3,117
+Klay Thompson,result_zone,Mid-Right Deep Paint,22
+Klay Thompson,result_zone,Mid-Right Midrange,71
+Klay Thompson,result_zone,Mid-Right Short Paint,19
+Klay Thompson,result_zone,Right Above Break 3,132
+Klay Thompson,result_zone,Right Corner 3,109
+Klay Thompson,result_zone,Right Midrange,58
+Klay Thompson,result_zone,Right Short Mid,66
+Klay Thompson,result_zone,Rim,378
+Klay Thompson,result_zone,Short Backcourt,3
+Klay Thompson,result_zone,,35
+Moses Moody,points,0.0,238
+Moses Moody,points,1.0,12
+Moses Moody,points,2.0,88
+Moses Moody,points,3.0,72
+Moses Moody,points,4.0,1
+Moses Moody,points,,2
+Moses Moody,result_contest,Alter,13
+Moses Moody,result_contest,Average,147
+Moses Moody,result_contest,Block,10
+Moses Moody,result_contest,Fouled,26
+Moses Moody,result_contest,Goaltend,1
+Moses Moody,result_contest,Open,66
+Moses Moody,result_contest,Plus,75
+Moses Moody,result_contest,Poor,25
+Moses Moody,result_contest,,50
+Moses Moody,result_type,1-2D Pull-Up,26
+Moses Moody,result_type,3+D Pull-Up,12
+Moses Moody,result_type,Catch & Shoot,131
+Moses Moody,result_type,Dunk,28
+Moses Moody,result_type,Face-Up,13
+Moses Moody,result_type,Floater,19
+Moses Moody,result_type,Layup,76
+Moses Moody,result_type,Leaner,2
+Moses Moody,result_type,Off-Lob / Tip,5
+Moses Moody,result_type,Off-Movement,39
+Moses Moody,result_type,PU Fade,12
+Moses Moody,result_type,SC Violation,3
+Moses Moody,result_type,Side Out,9
+Moses Moody,result_type,TOV,29
+Moses Moody,result_type,Take FT,2
+Moses Moody,result_type,Take Side,7
+Moses Moody,result_zone,Deep Backcourt,1
+Moses Moody,result_zone,Left Above Break 3,36
+Moses Moody,result_zone,Left Corner 3,28
+Moses Moody,result_zone,Left Midrange,9
+Moses Moody,result_zone,Left Short Mid,12
+Moses Moody,result_zone,Mid-Left Above Break 3,23
+Moses Moody,result_zone,Mid-Left Deep Paint,1
+Moses Moody,result_zone,Mid-Left Midrange,11
+Moses Moody,result_zone,Mid-Left Short Paint,8
+Moses Moody,result_zone,Mid-Right Above Break 3,23
+Moses Moody,result_zone,Mid-Right Deep Paint,4
+Moses Moody,result_zone,Mid-Right Midrange,6
+Moses Moody,result_zone,Mid-Right Short Paint,4
+Moses Moody,result_zone,Right Above Break 3,45
+Moses Moody,result_zone,Right Corner 3,41
+Moses Moody,result_zone,Right Midrange,10
+Moses Moody,result_zone,Right Short Mid,8
+Moses Moody,result_zone,Rim,130
+Moses Moody,result_zone,Short Backcourt,1
+Moses Moody,result_zone,,12
+Nemanja Bjelica,points,0.0,580
+Nemanja Bjelica,points,1.0,17
+Nemanja Bjelica,points,2.0,283
+Nemanja Bjelica,points,3.0,161
+Nemanja Bjelica,points,4.0,3
+Nemanja Bjelica,points,,8
+Nemanja Bjelica,result_contest,Alter,17
+Nemanja Bjelica,result_contest,Average,319
+Nemanja Bjelica,result_contest,Block,23
+Nemanja Bjelica,result_contest,Fouled,83
+Nemanja Bjelica,result_contest,Goaltend,1
+Nemanja Bjelica,result_contest,Open,209
+Nemanja Bjelica,result_contest,Plus,169
+Nemanja Bjelica,result_contest,Poor,59
+Nemanja Bjelica,result_contest,,172
+Nemanja Bjelica,result_type,1-2D Pull-Up,37
+Nemanja Bjelica,result_type,3+D Pull-Up,5
+Nemanja Bjelica,result_type,Catch & Shoot,279
+Nemanja Bjelica,result_type,Dunk,43
+Nemanja Bjelica,result_type,Face-Up,34
+Nemanja Bjelica,result_type,Floater,75
+Nemanja Bjelica,result_type,Hook,25
+Nemanja Bjelica,result_type,Jump Ball,1
+Nemanja Bjelica,result_type,Layup,246
+Nemanja Bjelica,result_type,Leaner,5
+Nemanja Bjelica,result_type,Off-Lob / Tip,29
+Nemanja Bjelica,result_type,Off-Movement,80
+Nemanja Bjelica,result_type,PU Fade,5
+Nemanja Bjelica,result_type,Post Fade,8
+Nemanja Bjelica,result_type,Putback,9
+Nemanja Bjelica,result_type,SC Violation,10
+Nemanja Bjelica,result_type,Side Out,22
+Nemanja Bjelica,result_type,TOV,118
+Nemanja Bjelica,result_type,Take FT,4
+Nemanja Bjelica,result_type,Take Side,17
+Nemanja Bjelica,result_zone,Deep Backcourt,3
+Nemanja Bjelica,result_zone,Left Above Break 3,66
+Nemanja Bjelica,result_zone,Left Corner 3,47
+Nemanja Bjelica,result_zone,Left Midrange,7
+Nemanja Bjelica,result_zone,Left Short Mid,23
+Nemanja Bjelica,result_zone,Mid-Left Above Break 3,88
+Nemanja Bjelica,result_zone,Mid-Left Deep Paint,7
+Nemanja Bjelica,result_zone,Mid-Left Midrange,11
+Nemanja Bjelica,result_zone,Mid-Left Short Paint,13
+Nemanja Bjelica,result_zone,Mid-Right Above Break 3,68
+Nemanja Bjelica,result_zone,Mid-Right Deep Paint,7
+Nemanja Bjelica,result_zone,Mid-Right Midrange,12
+Nemanja Bjelica,result_zone,Mid-Right Short Paint,23
+Nemanja Bjelica,result_zone,Right Above Break 3,99
+Nemanja Bjelica,result_zone,Right Corner 3,64
+Nemanja Bjelica,result_zone,Right Midrange,18
+Nemanja Bjelica,result_zone,Right Short Mid,21
+Nemanja Bjelica,result_zone,Rim,442
+Nemanja Bjelica,result_zone,,33
+Otto Porter Jr.,points,0.0,574
+Otto Porter Jr.,points,1.0,20
+Otto Porter Jr.,points,2.0,252
+Otto Porter Jr.,points,3.0,202
+Otto Porter Jr.,points,4.0,1
+Otto Porter Jr.,points,,2
+Otto Porter Jr.,result_contest,Alter,20
+Otto Porter Jr.,result_contest,Average,375
+Otto Porter Jr.,result_contest,Block,19
+Otto Porter Jr.,result_contest,Fouled,68
+Otto Porter Jr.,result_contest,Open,198
+Otto Porter Jr.,result_contest,Plus,179
+Otto Porter Jr.,result_contest,Poor,71
+Otto Porter Jr.,result_contest,,121
+Otto Porter Jr.,result_type,1-2D Pull-Up,69
+Otto Porter Jr.,result_type,3+D Pull-Up,13
+Otto Porter Jr.,result_type,Catch & Shoot,316
+Otto Porter Jr.,result_type,Dunk,39
+Otto Porter Jr.,result_type,Face-Up,12
+Otto Porter Jr.,result_type,Floater,64
+Otto Porter Jr.,result_type,Hook,12
+Otto Porter Jr.,result_type,Jump Ball,1
+Otto Porter Jr.,result_type,Layup,193
+Otto Porter Jr.,result_type,Leaner,7
+Otto Porter Jr.,result_type,Off-Lob / Tip,12
+Otto Porter Jr.,result_type,Off-Movement,158
+Otto Porter Jr.,result_type,PU Fade,26
+Otto Porter Jr.,result_type,Post Fade,4
+Otto Porter Jr.,result_type,Putback,5
+Otto Porter Jr.,result_type,SC Violation,7
+Otto Porter Jr.,result_type,Side Out,16
+Otto Porter Jr.,result_type,TOV,70
+Otto Porter Jr.,result_type,Take FT,5
+Otto Porter Jr.,result_type,Take Side,22
+Otto Porter Jr.,result_zone,Deep Backcourt,5
+Otto Porter Jr.,result_zone,Left Above Break 3,106
+Otto Porter Jr.,result_zone,Left Corner 3,72
+Otto Porter Jr.,result_zone,Left Midrange,32
+Otto Porter Jr.,result_zone,Left Short Mid,19
+Otto Porter Jr.,result_zone,Mid-Left Above Break 3,83
+Otto Porter Jr.,result_zone,Mid-Left Deep Paint,7
+Otto Porter Jr.,result_zone,Mid-Left Midrange,21
+Otto Porter Jr.,result_zone,Mid-Left Short Paint,13
+Otto Porter Jr.,result_zone,Mid-Right Above Break 3,60
+Otto Porter Jr.,result_zone,Mid-Right Deep Paint,6
+Otto Porter Jr.,result_zone,Mid-Right Midrange,21
+Otto Porter Jr.,result_zone,Mid-Right Short Paint,14
+Otto Porter Jr.,result_zone,Right Above Break 3,104
+Otto Porter Jr.,result_zone,Right Corner 3,91
+Otto Porter Jr.,result_zone,Right Midrange,22
+Otto Porter Jr.,result_zone,Right Short Mid,18
+Otto Porter Jr.,result_zone,Rim,331
+Otto Porter Jr.,result_zone,Short Backcourt,2
+Otto Porter Jr.,result_zone,,24
+Quinndary Weatherspoon,points,0.0,20
+Quinndary Weatherspoon,points,2.0,16
+Quinndary Weatherspoon,points,3.0,6
+Quinndary Weatherspoon,result_contest,Alter,2
+Quinndary Weatherspoon,result_contest,Average,10
+Quinndary Weatherspoon,result_contest,Block,1
+Quinndary Weatherspoon,result_contest,Fouled,5
+Quinndary Weatherspoon,result_contest,Open,12
+Quinndary Weatherspoon,result_contest,Plus,6
+Quinndary Weatherspoon,result_contest,Poor,2
+Quinndary Weatherspoon,result_contest,,4
+Quinndary Weatherspoon,result_type,1-2D Pull-Up,5
+Quinndary Weatherspoon,result_type,Catch & Shoot,5
+Quinndary Weatherspoon,result_type,Dunk,4
+Quinndary Weatherspoon,result_type,Face-Up,1
+Quinndary Weatherspoon,result_type,Floater,2
+Quinndary Weatherspoon,result_type,Layup,17
+Quinndary Weatherspoon,result_type,Leaner,1
+Quinndary Weatherspoon,result_type,Off-Lob / Tip,1
+Quinndary Weatherspoon,result_type,Off-Movement,2
+Quinndary Weatherspoon,result_type,TOV,3
+Quinndary Weatherspoon,result_type,Take Side,1
+Quinndary Weatherspoon,result_zone,Left Above Break 3,2
+Quinndary Weatherspoon,result_zone,Left Corner 3,1
+Quinndary Weatherspoon,result_zone,Mid-Left Above Break 3,4
+Quinndary Weatherspoon,result_zone,Mid-Left Deep Paint,1
+Quinndary Weatherspoon,result_zone,Mid-Left Midrange,1
+Quinndary Weatherspoon,result_zone,Mid-Left Short Paint,1
+Quinndary Weatherspoon,result_zone,Mid-Right Deep Paint,1
+Quinndary Weatherspoon,result_zone,Mid-Right Short Paint,1
+Quinndary Weatherspoon,result_zone,Right Above Break 3,4
+Quinndary Weatherspoon,result_zone,Right Corner 3,2
+Quinndary Weatherspoon,result_zone,Rim,24
+Stephen Curry,points,0.0,2609
+Stephen Curry,points,1.0,73
+Stephen Curry,points,2.0,1090
+Stephen Curry,points,3.0,848
+Stephen Curry,points,4.0,8
+Stephen Curry,points,,8
+Stephen Curry,result_contest,Alter,53
+Stephen Curry,result_contest,Average,1584
+Stephen Curry,result_contest,Block,131
+Stephen Curry,result_contest,Fouled,319
+Stephen Curry,result_contest,Goaltend,4
+Stephen Curry,result_contest,Open,742
+Stephen Curry,result_contest,Plus,846
+Stephen Curry,result_contest,Poor,243
+Stephen Curry,result_contest,,714
+Stephen Curry,result_type,1-2D Pull-Up,307
+Stephen Curry,result_type,3+D Pull-Up,521
+Stephen Curry,result_type,Catch & Shoot,775
+Stephen Curry,result_type,Dunk,154
+Stephen Curry,result_type,Face-Up,64
+Stephen Curry,result_type,Floater,398
+Stephen Curry,result_type,Hook,35
+Stephen Curry,result_type,Jump Ball,6
+Stephen Curry,result_type,Layup,908
+Stephen Curry,result_type,Leaner,35
+Stephen Curry,result_type,Off-Lob / Tip,27
+Stephen Curry,result_type,Off-Movement,572
+Stephen Curry,result_type,PU Fade,106
+Stephen Curry,result_type,Post Fade,19
+Stephen Curry,result_type,Putback,1
+Stephen Curry,result_type,SC Violation,11
+Stephen Curry,result_type,Side Out,100
+Stephen Curry,result_type,TOV,450
+Stephen Curry,result_type,Take FT,34
+Stephen Curry,result_type,Take Side,113
+Stephen Curry,result_zone,Deep Backcourt,13
+Stephen Curry,result_zone,Left Above Break 3,377
+Stephen Curry,result_zone,Left Corner 3,260
+Stephen Curry,result_zone,Left Midrange,76
+Stephen Curry,result_zone,Left Short Mid,101
+Stephen Curry,result_zone,Mid-Left Above Break 3,478
+Stephen Curry,result_zone,Mid-Left Deep Paint,31
+Stephen Curry,result_zone,Mid-Left Midrange,105
+Stephen Curry,result_zone,Mid-Left Short Paint,82
+Stephen Curry,result_zone,Mid-Right Above Break 3,384
+Stephen Curry,result_zone,Mid-Right Deep Paint,32
+Stephen Curry,result_zone,Mid-Right Midrange,124
+Stephen Curry,result_zone,Mid-Right Short Paint,65
+Stephen Curry,result_zone,Right Above Break 3,433
+Stephen Curry,result_zone,Right Corner 3,272
+Stephen Curry,result_zone,Right Midrange,92
+Stephen Curry,result_zone,Right Short Mid,101
+Stephen Curry,result_zone,Rim,1457
+Stephen Curry,result_zone,Short Backcourt,32
+Stephen Curry,result_zone,,121
